@@ -1,2 +1,2 @@
-# MovieRecommendation.web3
-My first web3 dapp :)))
+# Movie Recommendation web 3.0 Dapp 
+This decentralized application is built on rinkeby testnet. It accepts movie recommendations from people and displays the input.
